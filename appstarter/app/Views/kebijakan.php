@@ -23,7 +23,16 @@
         <input
           class="form-check-input"
           type="radio"
-          name="inlineRadioOptions"
+          name="persyaratan"
+          id="inlineRadio0"
+          value="0"
+        />
+        <label class="form-check-label" for="inlineRadio0">0</label>
+      <div class="form-check form-check-inline">
+        <input
+          class="form-check-input"
+          type="radio"
+          name="persyaratan"
           id="inlineRadio1"
           value="1"
         />
@@ -33,7 +42,7 @@
         <input
           class="form-check-input"
           type="radio"
-          name="inlineRadioOptions"
+          name="persyaratan"
           id="inlineRadio2"
           value="2"
         />
@@ -43,7 +52,7 @@
         <input
           class="form-check-input"
           type="radio"
-          name="inlineRadioOptions"
+          name="persyaratan"
           id="inlineRadio3"
           value="3"
         />
@@ -53,24 +62,22 @@
         <input
           class="form-check-input"
           type="radio"
-          name="inlineRadioOptions"
-          id="inlineRadio3"
+          name="persyaratan"
+          id="inlineRadio4"
           value="4"
         />
-        <label class="form-check-label" for="inlineRadio3">4</label>
+        <label class="form-check-label" for="inlineRadio4">4</label>
       </div>
       <div class="form-check form-check-inline">
         <input
           class="form-check-input"
           type="radio"
-          name="inlineRadioOptions"
-          id="inlineRadio3"
+          name="persyaratan"
+          id="inlineRadio5"
           value="5"
         />
-        <label class="form-check-label" for="inlineRadio3">5</label>
+        <label class="form-check-label" for="inlineRadio5">5</label>
       </div>
-    </form>
-    <form>
       <p>
         2. 1.a.K1 Informasi tentang prosedur memberi kemudahan dan keadilan
         dalam pelayanan.
@@ -79,7 +86,16 @@
         <input
           class="form-check-input"
           type="radio"
-          name="inlineRadioOptions"
+          name="prosedur"
+          id="inlineRadio0"
+          value="0"
+        />
+        <label class="form-check-label" for="inlineRadio0">0</label>
+      <div class="form-check form-check-inline">
+        <input
+          class="form-check-input"
+          type="radio"
+          name="prosedur"
           id="inlineRadio1"
           value="1"
         />
@@ -89,7 +105,7 @@
         <input
           class="form-check-input"
           type="radio"
-          name="inlineRadioOptions"
+          name="prosedur"
           id="inlineRadio2"
           value="2"
         />
@@ -99,7 +115,7 @@
         <input
           class="form-check-input"
           type="radio"
-          name="inlineRadioOptions"
+          name="prosedur"
           id="inlineRadio3"
           value="3"
         />
@@ -109,24 +125,22 @@
         <input
           class="form-check-input"
           type="radio"
-          name="inlineRadioOptions"
-          id="inlineRadio3"
+          name="prosedur"
+          id="inlineRadio4"
           value="4"
         />
-        <label class="form-check-label" for="inlineRadio3">4</label>
+        <label class="form-check-label" for="inlineRadio4">4</label>
       </div>
       <div class="form-check form-check-inline">
         <input
           class="form-check-input"
           type="radio"
-          name="inlineRadioOptions"
-          id="inlineRadio3"
+          name="prosedur"
+          id="inlineRadio5"
           value="5"
         />
-        <label class="form-check-label" for="inlineRadio3">5</label>
+        <label class="form-check-label" for="inlineRadio5">5</label>
       </div>
-    </form>
-    <form>
       <p>
         3. 1.a.K1 Informasi tentang tarif memberi kemudahan dan keadilan dalam
         pelayanan.
@@ -135,7 +149,16 @@
         <input
           class="form-check-input"
           type="radio"
-          name="inlineRadioOptions"
+          name="tarif"
+          id="inlineRadio0"
+          value="0"
+        />
+        <label class="form-check-label" for="inlineRadio0">0</label>
+      <div class="form-check form-check-inline">
+        <input
+          class="form-check-input"
+          type="radio"
+          name="tarif"
           id="inlineRadio1"
           value="1"
         />
@@ -145,7 +168,7 @@
         <input
           class="form-check-input"
           type="radio"
-          name="inlineRadioOptions"
+          name="tarif"
           id="inlineRadio2"
           value="2"
         />
@@ -155,7 +178,7 @@
         <input
           class="form-check-input"
           type="radio"
-          name="inlineRadioOptions"
+          name="tarif"
           id="inlineRadio3"
           value="3"
         />
@@ -165,24 +188,22 @@
         <input
           class="form-check-input"
           type="radio"
-          name="inlineRadioOptions"
-          id="inlineRadio3"
+          name="tarif"
+          id="inlineRadio4"
           value="4"
         />
-        <label class="form-check-label" for="inlineRadio3">4</label>
+        <label class="form-check-label" for="inlineRadio4">4</label>
       </div>
       <div class="form-check form-check-inline">
         <input
           class="form-check-input"
           type="radio"
-          name="inlineRadioOptions"
-          id="inlineRadio3"
+          name="tarif"
+          id="inlineRadio5"
           value="5"
         />
-        <label class="form-check-label" for="inlineRadio3">5</label>
+        <label class="form-check-label" for="inlineRadio5">5</label>
       </div>
-    </form>
-    <form>
       <p>
         4. 1.a.K1 Informssi tentang waktu memberi kemudahan dan keadilan dalam
         pelayanan
@@ -191,7 +212,16 @@
         <input
           class="form-check-input"
           type="radio"
-          name="inlineRadioOptions"
+          name="waktu"
+          id="inlineRadio0"
+          value="0"
+        />
+        <label class="form-check-label" for="inlineRadio0">0</label>
+      <div class="form-check form-check-inline">
+        <input
+          class="form-check-input"
+          type="radio"
+          name="waktu"
           id="inlineRadio1"
           value="1"
         />
@@ -201,7 +231,7 @@
         <input
           class="form-check-input"
           type="radio"
-          name="inlineRadioOptions"
+          name="waktu"
           id="inlineRadio2"
           value="2"
         />
@@ -211,7 +241,7 @@
         <input
           class="form-check-input"
           type="radio"
-          name="inlineRadioOptions"
+          name="waktu"
           id="inlineRadio3"
           value="3"
         />
@@ -221,24 +251,22 @@
         <input
           class="form-check-input"
           type="radio"
-          name="inlineRadioOptions"
-          id="inlineRadio3"
+          name="waktu"
+          id="inlineRadio4"
           value="4"
         />
-        <label class="form-check-label" for="inlineRadio3">4</label>
+        <label class="form-check-label" for="inlineRadio4">4</label>
       </div>
       <div class="form-check form-check-inline">
         <input
           class="form-check-input"
           type="radio"
-          name="inlineRadioOptions"
-          id="inlineRadio3"
+          name="waktu"
+          id="inlineRadio5"
           value="5"
         />
-        <label class="form-check-label" for="inlineRadio3">5</label>
+        <label class="form-check-label" for="inlineRadio5">5</label>
       </div>
-    </form>
-    <form>
       <p>
         5. 1.a.K1 Sistem antrian yang diterapkan mencerminkan keadilan pelayanan
       </p>
@@ -246,7 +274,16 @@
         <input
           class="form-check-input"
           type="radio"
-          name="inlineRadioOptions"
+          name="antrian"
+          id="inlineRadio0"
+          value="0"
+        />
+        <label class="form-check-label" for="inlineRadio0">0</label>
+      <div class="form-check form-check-inline">
+        <input
+          class="form-check-input"
+          type="radio"
+          name="antrian"
           id="inlineRadio1"
           value="1"
         />
@@ -256,7 +293,7 @@
         <input
           class="form-check-input"
           type="radio"
-          name="inlineRadioOptions"
+          name="antrian"
           id="inlineRadio2"
           value="2"
         />
@@ -266,7 +303,7 @@
         <input
           class="form-check-input"
           type="radio"
-          name="inlineRadioOptions"
+          name="antrian"
           id="inlineRadio3"
           value="3"
         />
@@ -276,24 +313,22 @@
         <input
           class="form-check-input"
           type="radio"
-          name="inlineRadioOptions"
-          id="inlineRadio3"
+          name="antrian"
+          id="inlineRadio4"
           value="4"
         />
-        <label class="form-check-label" for="inlineRadio3">4</label>
+        <label class="form-check-label" for="inlineRadio4">4</label>
       </div>
       <div class="form-check form-check-inline">
         <input
           class="form-check-input"
           type="radio"
-          name="inlineRadioOptions"
-          id="inlineRadio3"
+          name="antrian"
+          id="inlineRadio5"
           value="5"
         />
-        <label class="form-check-label" for="inlineRadio3">5</label>
+        <label class="form-check-label" for="inlineRadio5">5</label>
       </div>
-    </form>
-    <form>
       <p>
         6. 1.a.P Perlibatan masyarakat dan pihak terkait di dalam penyusunan
         standar pelayanan.
@@ -302,7 +337,16 @@
         <input
           class="form-check-input"
           type="radio"
-          name="inlineRadioOptions"
+          name="perlibatan"
+          id="inlineRadio0"
+          value="0"
+        />
+        <label class="form-check-label" for="inlineRadio0">0</label>
+      <div class="form-check form-check-inline">
+        <input
+          class="form-check-input"
+          type="radio"
+          name="perlibatan"
           id="inlineRadio1"
           value="1"
         />
@@ -312,7 +356,7 @@
         <input
           class="form-check-input"
           type="radio"
-          name="inlineRadioOptions"
+          name="perlibatan"
           id="inlineRadio2"
           value="2"
         />
@@ -322,7 +366,7 @@
         <input
           class="form-check-input"
           type="radio"
-          name="inlineRadioOptions"
+          name="perlibatan"
           id="inlineRadio3"
           value="3"
         />
@@ -332,24 +376,22 @@
         <input
           class="form-check-input"
           type="radio"
-          name="inlineRadioOptions"
-          id="inlineRadio3"
+          name="perlibatan"
+          id="inlineRadio4"
           value="4"
         />
-        <label class="form-check-label" for="inlineRadio3">4</label>
+        <label class="form-check-label" for="inlineRadio4">4</label>
       </div>
       <div class="form-check form-check-inline">
         <input
           class="form-check-input"
           type="radio"
-          name="inlineRadioOptions"
-          id="inlineRadio3"
+          name="perlibatan"
+          id="inlineRadio5"
           value="5"
         />
-        <label class="form-check-label" for="inlineRadio3">5</label>
+        <label class="form-check-label" for="inlineRadio5">5</label>
       </div>
-    </form>
-    <form>
       <p>
         7. 1.a.As Publikasi Standar Pelayanan di berbagai tempat dan media
         informasi memudahkan pengguna layanan
@@ -358,7 +400,16 @@
         <input
           class="form-check-input"
           type="radio"
-          name="inlineRadioOptions"
+          name="publikasi"
+          id="inlineRadio0"
+          value="0"
+        />
+        <label class="form-check-label" for="inlineRadio0">0</label>
+      <div class="form-check form-check-inline">
+        <input
+          class="form-check-input"
+          type="radio"
+          name="publikasi"
           id="inlineRadio1"
           value="1"
         />
@@ -368,7 +419,7 @@
         <input
           class="form-check-input"
           type="radio"
-          name="inlineRadioOptions"
+          name="publikasi"
           id="inlineRadio2"
           value="2"
         />
@@ -378,7 +429,7 @@
         <input
           class="form-check-input"
           type="radio"
-          name="inlineRadioOptions"
+          name="publikasi"
           id="inlineRadio3"
           value="3"
         />
@@ -388,24 +439,22 @@
         <input
           class="form-check-input"
           type="radio"
-          name="inlineRadioOptions"
-          id="inlineRadio3"
+          name="publikasi"
+          id="inlineRadio4"
           value="4"
         />
-        <label class="form-check-label" for="inlineRadio3">4</label>
+        <label class="form-check-label" for="inlineRadio4">4</label>
       </div>
       <div class="form-check form-check-inline">
         <input
           class="form-check-input"
           type="radio"
-          name="inlineRadioOptions"
-          id="inlineRadio3"
+          name="publikasi"
+          id="inlineRadio5"
           value="5"
         />
-        <label class="form-check-label" for="inlineRadio3">5</label>
+        <label class="form-check-label" for="inlineRadio5">5</label>
       </div>
-    </form>
-    <form>
       <p>
         8. 1.c.P Survei Kepuasan Masyarakat (SKM) menjadi wadah partisipasi
         masyarakat dalam emnyampaikan aspirasi
@@ -414,7 +463,16 @@
         <input
           class="form-check-input"
           type="radio"
-          name="inlineRadioOptions"
+          name="skm"
+          id="inlineRadio0"
+          value="0"
+        />
+        <label class="form-check-label" for="inlineRadio0">0</label>
+      <div class="form-check form-check-inline">
+        <input
+          class="form-check-input"
+          type="radio"
+          name="skm"
           id="inlineRadio1"
           value="1"
         />
@@ -424,7 +482,7 @@
         <input
           class="form-check-input"
           type="radio"
-          name="inlineRadioOptions"
+          name="skm"
           id="inlineRadio2"
           value="2"
         />
@@ -434,7 +492,7 @@
         <input
           class="form-check-input"
           type="radio"
-          name="inlineRadioOptions"
+          name="skm"
           id="inlineRadio3"
           value="3"
         />
@@ -444,24 +502,22 @@
         <input
           class="form-check-input"
           type="radio"
-          name="inlineRadioOptions"
-          id="inlineRadio3"
+          name="skm"
+          id="inlineRadio4"
           value="4"
         />
-        <label class="form-check-label" for="inlineRadio3">4</label>
+        <label class="form-check-label" for="inlineRadio4">4</label>
       </div>
       <div class="form-check form-check-inline">
         <input
           class="form-check-input"
           type="radio"
-          name="inlineRadioOptions"
-          id="inlineRadio3"
+          name="skm"
+          id="inlineRadio5"
           value="5"
         />
-        <label class="form-check-label" for="inlineRadio3">5</label>
+        <label class="form-check-label" for="inlineRadio5">5</label>
       </div>
-    </form>
-    <form>
       <p>
         9. 1.c.T Informasi tentang tarif memberi kemudahan dan keadilan dalam
         pelayanan.
@@ -470,7 +526,16 @@
         <input
           class="form-check-input"
           type="radio"
-          name="inlineRadioOptions"
+          name="tarifb"
+          id="inlineRadio0"
+          value="0"
+        />
+        <label class="form-check-label" for="inlineRadio0">0</label>
+      <div class="form-check form-check-inline">
+        <input
+          class="form-check-input"
+          type="radio"
+          name="tarifb"
           id="inlineRadio1"
           value="1"
         />
@@ -480,7 +545,7 @@
         <input
           class="form-check-input"
           type="radio"
-          name="inlineRadioOptions"
+          name="tarifb"
           id="inlineRadio2"
           value="2"
         />
@@ -490,7 +555,7 @@
         <input
           class="form-check-input"
           type="radio"
-          name="inlineRadioOptions"
+          name="tarifb"
           id="inlineRadio3"
           value="3"
         />
@@ -500,528 +565,24 @@
         <input
           class="form-check-input"
           type="radio"
-          name="inlineRadioOptions"
-          id="inlineRadio3"
+          name="tarifb"
+          id="inlineRadio4"
           value="4"
         />
-        <label class="form-check-label" for="inlineRadio3">4</label>
+        <label class="form-check-label" for="inlineRadio4">4</label>
       </div>
       <div class="form-check form-check-inline">
         <input
           class="form-check-input"
           type="radio"
-          name="inlineRadioOptions"
-          id="inlineRadio3"
+          name="tarifb"
+          id="inlineRadio5"
           value="5"
         />
-        <label class="form-check-label" for="inlineRadio3">5</label>
+        <label class="form-check-label" for="inlineRadio5">5</label>
       </div>
+      <input type="submit" value="Submit" />
     </form>
-  </body>
-  <body>
-    <h3>KEBIJAKAN PELAYANAN</h3>
-    <form>
-      <p>
-        1.1.a.K1 Informasi tentang persyaratan memeberi kemudahan dan keadilan
-        dalam pelayanan
-      </p>
-      <div class="form-check form-check-inline">
-        <input
-          class="form-check-input"
-          type="radio"
-          name="inlineRadioOptions"
-          id="inlineRadio1"
-          value="1"
-        />
-        <label class="form-check-label" for="inlineRadio1">1</label>
-      </div>
-      <div class="form-check form-check-inline">
-        <input
-          class="form-check-input"
-          type="radio"
-          name="inlineRadioOptions"
-          id="inlineRadio2"
-          value="2"
-        />
-        <label class="form-check-label" for="inlineRadio2">2</label>
-      </div>
-      <div class="form-check form-check-inline">
-        <input
-          class="form-check-input"
-          type="radio"
-          name="inlineRadioOptions"
-          id="inlineRadio3"
-          value="3"
-        />
-        <label class="form-check-label" for="inlineRadio3">3</label>
-      </div>
-      <div class="form-check form-check-inline">
-        <input
-          class="form-check-input"
-          type="radio"
-          name="inlineRadioOptions"
-          id="inlineRadio3"
-          value="4"
-        />
-        <label class="form-check-label" for="inlineRadio3">4</label>
-      </div>
-      <div class="form-check form-check-inline">
-        <input
-          class="form-check-input"
-          type="radio"
-          name="inlineRadioOptions"
-          id="inlineRadio3"
-          value="5"
-        />
-        <label class="form-check-label" for="inlineRadio3">5</label>
-      </div>
-    </form>
-    <form>
-      <p>
-        2. 1.a.K1 Informasi tentang prosedur memberi kemudahan dan keadilan
-        dalam pelayanan.
-      </p>
-      <div class="form-check form-check-inline">
-        <input
-          class="form-check-input"
-          type="radio"
-          name="inlineRadioOptions"
-          id="inlineRadio1"
-          value="1"
-        />
-        <label class="form-check-label" for="inlineRadio1">1</label>
-      </div>
-      <div class="form-check form-check-inline">
-        <input
-          class="form-check-input"
-          type="radio"
-          name="inlineRadioOptions"
-          id="inlineRadio2"
-          value="2"
-        />
-        <label class="form-check-label" for="inlineRadio2">2</label>
-      </div>
-      <div class="form-check form-check-inline">
-        <input
-          class="form-check-input"
-          type="radio"
-          name="inlineRadioOptions"
-          id="inlineRadio3"
-          value="3"
-        />
-        <label class="form-check-label" for="inlineRadio3">3</label>
-      </div>
-      <div class="form-check form-check-inline">
-        <input
-          class="form-check-input"
-          type="radio"
-          name="inlineRadioOptions"
-          id="inlineRadio3"
-          value="4"
-        />
-        <label class="form-check-label" for="inlineRadio3">4</label>
-      </div>
-      <div class="form-check form-check-inline">
-        <input
-          class="form-check-input"
-          type="radio"
-          name="inlineRadioOptions"
-          id="inlineRadio3"
-          value="5"
-        />
-        <label class="form-check-label" for="inlineRadio3">5</label>
-      </div>
-    </form>
-    <form>
-      <p>
-        3. 1.a.K1 Informasi tentang tarif memberi kemudahan dan keadilan dalam
-        pelayanan.
-      </p>
-      <div class="form-check form-check-inline">
-        <input
-          class="form-check-input"
-          type="radio"
-          name="inlineRadioOptions"
-          id="inlineRadio1"
-          value="1"
-        />
-        <label class="form-check-label" for="inlineRadio1">1</label>
-      </div>
-      <div class="form-check form-check-inline">
-        <input
-          class="form-check-input"
-          type="radio"
-          name="inlineRadioOptions"
-          id="inlineRadio2"
-          value="2"
-        />
-        <label class="form-check-label" for="inlineRadio2">2</label>
-      </div>
-      <div class="form-check form-check-inline">
-        <input
-          class="form-check-input"
-          type="radio"
-          name="inlineRadioOptions"
-          id="inlineRadio3"
-          value="3"
-        />
-        <label class="form-check-label" for="inlineRadio3">3</label>
-      </div>
-      <div class="form-check form-check-inline">
-        <input
-          class="form-check-input"
-          type="radio"
-          name="inlineRadioOptions"
-          id="inlineRadio3"
-          value="4"
-        />
-        <label class="form-check-label" for="inlineRadio3">4</label>
-      </div>
-      <div class="form-check form-check-inline">
-        <input
-          class="form-check-input"
-          type="radio"
-          name="inlineRadioOptions"
-          id="inlineRadio3"
-          value="5"
-        />
-        <label class="form-check-label" for="inlineRadio3">5</label>
-      </div>
-    </form>
-    <form>
-      <p>
-        4. 1.a.K1 Informssi tentang waktu memberi kemudahan dan keadilan dalam
-        pelayanan
-      </p>
-      <div class="form-check form-check-inline">
-        <input
-          class="form-check-input"
-          type="radio"
-          name="inlineRadioOptions"
-          id="inlineRadio1"
-          value="1"
-        />
-        <label class="form-check-label" for="inlineRadio1">1</label>
-      </div>
-      <div class="form-check form-check-inline">
-        <input
-          class="form-check-input"
-          type="radio"
-          name="inlineRadioOptions"
-          id="inlineRadio2"
-          value="2"
-        />
-        <label class="form-check-label" for="inlineRadio2">2</label>
-      </div>
-      <div class="form-check form-check-inline">
-        <input
-          class="form-check-input"
-          type="radio"
-          name="inlineRadioOptions"
-          id="inlineRadio3"
-          value="3"
-        />
-        <label class="form-check-label" for="inlineRadio3">3</label>
-      </div>
-      <div class="form-check form-check-inline">
-        <input
-          class="form-check-input"
-          type="radio"
-          name="inlineRadioOptions"
-          id="inlineRadio3"
-          value="4"
-        />
-        <label class="form-check-label" for="inlineRadio3">4</label>
-      </div>
-      <div class="form-check form-check-inline">
-        <input
-          class="form-check-input"
-          type="radio"
-          name="inlineRadioOptions"
-          id="inlineRadio3"
-          value="5"
-        />
-        <label class="form-check-label" for="inlineRadio3">5</label>
-      </div>
-    </form>
-    <form>
-      <p>
-        5. 1.a.K1 Sistem antrian yang diterapkan mencerminkan keadilan pelayanan
-      </p>
-      <div class="form-check form-check-inline">
-        <input
-          class="form-check-input"
-          type="radio"
-          name="inlineRadioOptions"
-          id="inlineRadio1"
-          value="1"
-        />
-        <label class="form-check-label" for="inlineRadio1">1</label>
-      </div>
-      <div class="form-check form-check-inline">
-        <input
-          class="form-check-input"
-          type="radio"
-          name="inlineRadioOptions"
-          id="inlineRadio2"
-          value="2"
-        />
-        <label class="form-check-label" for="inlineRadio2">2</label>
-      </div>
-      <div class="form-check form-check-inline">
-        <input
-          class="form-check-input"
-          type="radio"
-          name="inlineRadioOptions"
-          id="inlineRadio3"
-          value="3"
-        />
-        <label class="form-check-label" for="inlineRadio3">3</label>
-      </div>
-      <div class="form-check form-check-inline">
-        <input
-          class="form-check-input"
-          type="radio"
-          name="inlineRadioOptions"
-          id="inlineRadio3"
-          value="4"
-        />
-        <label class="form-check-label" for="inlineRadio3">4</label>
-      </div>
-      <div class="form-check form-check-inline">
-        <input
-          class="form-check-input"
-          type="radio"
-          name="inlineRadioOptions"
-          id="inlineRadio3"
-          value="5"
-        />
-        <label class="form-check-label" for="inlineRadio3">5</label>
-      </div>
-    </form>
-    <form>
-      <p>
-        6. 1.a.P Perlibatan masyarakat dan pihak terkait di dalam penyusunan
-        standar pelayanan.
-      </p>
-      <div class="form-check form-check-inline">
-        <input
-          class="form-check-input"
-          type="radio"
-          name="inlineRadioOptions"
-          id="inlineRadio1"
-          value="1"
-        />
-        <label class="form-check-label" for="inlineRadio1">1</label>
-      </div>
-      <div class="form-check form-check-inline">
-        <input
-          class="form-check-input"
-          type="radio"
-          name="inlineRadioOptions"
-          id="inlineRadio2"
-          value="2"
-        />
-        <label class="form-check-label" for="inlineRadio2">2</label>
-      </div>
-      <div class="form-check form-check-inline">
-        <input
-          class="form-check-input"
-          type="radio"
-          name="inlineRadioOptions"
-          id="inlineRadio3"
-          value="3"
-        />
-        <label class="form-check-label" for="inlineRadio3">3</label>
-      </div>
-      <div class="form-check form-check-inline">
-        <input
-          class="form-check-input"
-          type="radio"
-          name="inlineRadioOptions"
-          id="inlineRadio3"
-          value="4"
-        />
-        <label class="form-check-label" for="inlineRadio3">4</label>
-      </div>
-      <div class="form-check form-check-inline">
-        <input
-          class="form-check-input"
-          type="radio"
-          name="inlineRadioOptions"
-          id="inlineRadio3"
-          value="5"
-        />
-        <label class="form-check-label" for="inlineRadio3">5</label>
-      </div>
-    </form>
-    <form>
-      <p>
-        7. 1.a.As Publikasi Standar Pelayanan di berbagai tempat dan media
-        informasi memudahkan pengguna layanan
-      </p>
-      <div class="form-check form-check-inline">
-        <input
-          class="form-check-input"
-          type="radio"
-          name="inlineRadioOptions"
-          id="inlineRadio1"
-          value="1"
-        />
-        <label class="form-check-label" for="inlineRadio1">1</label>
-      </div>
-      <div class="form-check form-check-inline">
-        <input
-          class="form-check-input"
-          type="radio"
-          name="inlineRadioOptions"
-          id="inlineRadio2"
-          value="2"
-        />
-        <label class="form-check-label" for="inlineRadio2">2</label>
-      </div>
-      <div class="form-check form-check-inline">
-        <input
-          class="form-check-input"
-          type="radio"
-          name="inlineRadioOptions"
-          id="inlineRadio3"
-          value="3"
-        />
-        <label class="form-check-label" for="inlineRadio3">3</label>
-      </div>
-      <div class="form-check form-check-inline">
-        <input
-          class="form-check-input"
-          type="radio"
-          name="inlineRadioOptions"
-          id="inlineRadio3"
-          value="4"
-        />
-        <label class="form-check-label" for="inlineRadio3">4</label>
-      </div>
-      <div class="form-check form-check-inline">
-        <input
-          class="form-check-input"
-          type="radio"
-          name="inlineRadioOptions"
-          id="inlineRadio3"
-          value="5"
-        />
-        <label class="form-check-label" for="inlineRadio3">5</label>
-      </div>
-    </form>
-    <form>
-      <p>
-        8. 1.c.P Survei Kepuasan Masyarakat (SKM) menjadi wadah partisipasi
-        masyarakat dalam emnyampaikan aspirasi
-      </p>
-      <div class="form-check form-check-inline">
-        <input
-          class="form-check-input"
-          type="radio"
-          name="inlineRadioOptions"
-          id="inlineRadio1"
-          value="1"
-        />
-        <label class="form-check-label" for="inlineRadio1">1</label>
-      </div>
-      <div class="form-check form-check-inline">
-        <input
-          class="form-check-input"
-          type="radio"
-          name="inlineRadioOptions"
-          id="inlineRadio2"
-          value="2"
-        />
-        <label class="form-check-label" for="inlineRadio2">2</label>
-      </div>
-      <div class="form-check form-check-inline">
-        <input
-          class="form-check-input"
-          type="radio"
-          name="inlineRadioOptions"
-          id="inlineRadio3"
-          value="3"
-        />
-        <label class="form-check-label" for="inlineRadio3">3</label>
-      </div>
-      <div class="form-check form-check-inline">
-        <input
-          class="form-check-input"
-          type="radio"
-          name="inlineRadioOptions"
-          id="inlineRadio3"
-          value="4"
-        />
-        <label class="form-check-label" for="inlineRadio3">4</label>
-      </div>
-      <div class="form-check form-check-inline">
-        <input
-          class="form-check-input"
-          type="radio"
-          name="inlineRadioOptions"
-          id="inlineRadio3"
-          value="5"
-        />
-        <label class="form-check-label" for="inlineRadio3">5</label>
-      </div>
-    </form>
-    <form>
-      <p>
-        9. 1.c.T Informasi tentang tarif memberi kemudahan dan keadilan dalam
-        pelayanan.
-      </p>
-      <div class="form-check form-check-inline">
-        <input
-          class="form-check-input"
-          type="radio"
-          name="inlineRadioOptions"
-          id="inlineRadio1"
-          value="1"
-        />
-        <label class="form-check-label" for="inlineRadio1">1</label>
-      </div>
-      <div class="form-check form-check-inline">
-        <input
-          class="form-check-input"
-          type="radio"
-          name="inlineRadioOptions"
-          id="inlineRadio2"
-          value="2"
-        />
-        <label class="form-check-label" for="inlineRadio2">2</label>
-      </div>
-      <div class="form-check form-check-inline">
-        <input
-          class="form-check-input"
-          type="radio"
-          name="inlineRadioOptions"
-          id="inlineRadio3"
-          value="3"
-        />
-        <label class="form-check-label" for="inlineRadio3">3</label>
-      </div>
-      <div class="form-check form-check-inline">
-        <input
-          class="form-check-input"
-          type="radio"
-          name="inlineRadioOptions"
-          id="inlineRadio3"
-          value="4"
-        />
-        <label class="form-check-label" for="inlineRadio3">4</label>
-      </div>
-      <div class="form-check form-check-inline">
-        <input
-          class="form-check-input"
-          type="radio"
-          name="inlineRadioOptions"
-          id="inlineRadio3"
-          value="5"
-        />
-        <label class="form-check-label" for="inlineRadio3">5</label>
-      </div>
-    </form>
+
   </body>
 </html>
