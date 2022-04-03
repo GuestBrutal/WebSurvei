@@ -33,7 +33,9 @@ $routes->setAutoRoute(true);
 // route since we don't have to scan directories.
 $routes->get('/', 'Home::index');
 $routes->get('/login', 'Home::login');
+$routes->get('/login/user', 'Home::masuk');
 $routes->get('/kebijakan', 'Home::kebijakan');
+$routes->add('/inputKBJ', 'Home::inputKBJ');
 
 /*
  * --------------------------------------------------------------------
