@@ -24,6 +24,23 @@ SET time_zone = "+00:00";
 -- --------------------------------------------------------
 
 --
+-- Struktur dari tabel `pelayanan_publik`
+--
+
+CREATE TABLE `pelayanan_publik` (
+  `sipp` int(1) NOT NULL,
+  `pemutahiran` int(1) NOT NULL,
+  `transparan` int(1) NOT NULL,
+  `konsultasi` int(1) NOT NULL,
+  `pengaduan` int(1) NOT NULL,
+  `id_pelayanan` int(11) NOT NULL,
+  `id_user` int(11) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+-- --------------------------------------------------------
+
+
+--
 -- Struktur dari tabel `kebijakan_pelayanan`
 --
 
@@ -44,6 +61,26 @@ CREATE TABLE `kebijakan_pelayanan` (
 -- --------------------------------------------------------
 
 --
+-- Struktur dari tabel `profesionalisme_sdm`
+--
+
+CREATE TABLE `profesionalisme_sdm` (
+  `waktu` int(1) NOT NULL,
+  `kesigapan` int(1) NOT NULL,
+  `sikap` int(1) NOT NULL,
+  `parkir` int(1) NOT NULL,
+  `tunggu` int(1) NOT NULL,
+  `toilet` int(1) NOT NULL,
+  `khusus` int(1) NOT NULL,
+  `penunjang` int(1) NOT NULL,
+  `id_profesionalisme` int(11) NOT NULL,
+  `id_user` int(11) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+-- --------------------------------------------------------
+
+
+--
 -- Struktur dari tabel `responden`
 --
 
@@ -56,6 +93,20 @@ CREATE TABLE `responden` (
 --
 -- Indexes for dumped tables
 --
+
+--
+-- Indeks untuk tabel `profesionalisme_sdm`
+--
+ALTER TABLE `kebijakan_pelayanan`
+  ADD PRIMARY KEY (`id_pelayanan`);
+
+
+--
+-- Indeks untuk tabel `profesionalisme_sdm`
+--
+ALTER TABLE `profesionalisme_sdm`
+  ADD PRIMARY KEY (`id_profesionalisme`);
+
 
 --
 -- Indeks untuk tabel `kebijakan_pelayanan`
@@ -72,6 +123,20 @@ ALTER TABLE `responden`
 --
 -- AUTO_INCREMENT untuk tabel yang dibuang
 --
+
+--
+-- AUTO_INCREMENT untuk tabel `kebijakan_pelayanan`
+--
+ALTER TABLE `kebijakan_pelayanan`
+  MODIFY `id_pelayanan` int(11) NOT NULL AUTO_INCREMENT;
+
+
+--
+-- AUTO_INCREMENT untuk tabel `kebijakan_pelayanan`
+--
+ALTER TABLE `profesionalisme_sdm`
+  MODIFY `id_profesionalisme` int(11) NOT NULL AUTO_INCREMENT;
+
 
 --
 -- AUTO_INCREMENT untuk tabel `kebijakan_pelayanan`

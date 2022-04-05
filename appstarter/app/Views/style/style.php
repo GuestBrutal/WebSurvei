@@ -1,4 +1,5 @@
-@import "~mdb-ui-kit/css/mdb.min.css";
+<style>
+    @import "~mdb-ui-kit/css/mdb.min.css";
 .header {
     position: fixed;
     background-color: #333;
@@ -188,3 +189,4 @@ li a:hover {
     background-color: #111;
     color: white;
 }
+</style>
